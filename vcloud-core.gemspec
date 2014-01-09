@@ -10,6 +10,7 @@ Gem::Specification.new do |s|
   s.version     = Vcloud::Core::VERSION
   s.authors     = ['Government Digital Service']
   s.summary     = 'Core tools for interacting with VMware vCloud Director'
+  s.description = 'Core tools for interacting with VMware vCloud Director'
   s.homepage    = 'http://github.com/alphagov/vcloud-core'
   s.license     = 'MIT'
 
