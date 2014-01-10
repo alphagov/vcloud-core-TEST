@@ -25,7 +25,5 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'methadone'
   s.add_development_dependency 'rake'
   s.add_development_dependency 'rspec', '~> 2.14.1'
-  s.add_development_dependency 'cucumber', '~> 1.3.10'
   s.add_development_dependency 'simplecov', '~> 0.8.2'
-  s.add_development_dependency 'jeweler', '~> 1.8.8'
 end
